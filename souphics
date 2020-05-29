@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>SOUPHICS</title>
+	<meta name="Authour" content="Prince Favour Ajekiigbe">
+	<meta name="Discription" content="My name is Favour Joshua Ajekiigbe, a 300l student of Electrical and Computer Engineering in Kwara State University, and a lover of bass.">
+	<link rel="icon" type="img/icon" href="SOUGHTOUT NEWEST LOGO updated.jpg">
+	<meta http-equiv="refresh" content=60>
+
+	<link rel="stylesheet" type="text/css" href="souphics.css">
+</head>
+<body>
+	
+<h1><center>SOUGHTOUT GRAPHICS</center></h1>
+<marquee><img src="sg.png" width="200" height="150" alt="souphics logo"></marquee>
+<h3><center>This is the official website of Soughtout graphics</center></h3>
+
+<center>
+<header>
+	<nav>
+		<a href="register.html">REGISTER</a><br>
+		<p>Already have an accout <a href="saved accounts.html">SIGN IN</a></p>
+	</nav>
+</header>
+
+<section>
+	<em><h2>what we offer....</h2></em>
+
+<div id="div 1">
+	<ul>
+
+		<li><p class="A">Quote Design</p></li>
+		<li><p class="A">Logo Design</p></li>
+		<li><p class="A">Business Cards</p></li>
+		<li><p class="A">Flyer Design</p></li>
+		<li><p class="A">Banner ad Design</p></li>
+		<li><p class="A">Poster Design</p><br></li>
+
+	</ul>
+</div id="div 1">
+
+</section>
+
+	<label>
+		<strong>Comment Box</strong><p>
+		<textarea cols="50" rows="10" placeholder="what's on your mind"></textarea>
+		<input type="submit" name="send"><br><br>
+	</label>
+
+	<!-- <img src="SOUGHTOUT NEWEST LOGO updated.jpg" width="200px" height="200px"><br> -->
+	<!-- <img src="new folder/soughtout business card updated.jpg" width="300px" height="200px"><br>
+	<img src="new folder/SOUGHTOUT 4 front updated.jpg" width="300px" height="200px">
+	<img src="new folder/SOUGHTOUT 4 back updated.jpg" width="300px" height="200px"><br> -->
+	<img src="new folder/my flyer updated.jpg" width="500px" height="650px">
+ 
+<p>learn about us<hr>
+
+<h> Quality service is our utmost priority as our motto implies, soughtout graphics offers the best graphic designs...<br>
+	having many years of designing experience makes us the man for the job.</h><br><br> 
+
+	<div id="div 2">
+
+		<ul class="B"><a href="https://facebook.com" target="__blank"><img src="images (5).png" height="30" width="30" alt="facebook"></a></ul>
+		<ul class="B"><a href="https://wa.me/2348141756712?text=Hello,%20i%20would%20love%20to%20patronize%20souphics....%20my%20name%20is%E2%80%94-" target="__blank"><img src="580b57fcd9996e24bc43c543.png" height="30" width="30" alt="whatsapp"></a></ul>
+
+		<ul class="B"><a href="https://favour.ajekiigbe18@kwasu.edu.ng" target="__blank"><img src="icone-contact-png-3.png" height="30" width="30" alt="email"></a></ul>
+
+		<ul class="B"><a href="call 08141756712, 08127580601" target="__blank"><img src="img_297947.png" height="30" width="30" alt="phone number"></a></ul>
+
+	</div id="div 2">
+	</center>
+
+</body>
+</html>
